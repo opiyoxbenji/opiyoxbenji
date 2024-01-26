@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi, I am Benjamin.  👋
 
-<!--
-**opiyoxbenji/opiyoxbenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Hello World, I'm Benjamin!](assets/header.gif)](https://github.com/kshyun28)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Opiyos_Benji) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/benjamin-opiyos/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:opiyosbenji@gmail.com)
+
+</div>
+
+- 🌱 I’m passionate about Backend Development and a tech
+- 📝 I’m aiming to become proficient in Javascript and Python come end of this year
+- 🌱 I’m currently learning Golang, Python, DevOps, MySQL
+- 👯 I’m looking to collaborate on creating python projects
+- 🤔 I’m looking for help with Golang and Django
+- 😄 Pronouns: he/him
