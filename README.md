@@ -11,9 +11,8 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 </div>
 
-- 🌱 I’m passionate about Backend Development and a tech
-- 📝 I’m aiming to become proficient in Javascript and Python come end of this year
+- 🌱 I’m passionate about Backend Development and tech enthusiast
+- 📝 I’m aiming to become proficient in Javascript and Python as I use them
 - 🌱 I’m currently learning Golang, Python, DevOps, MySQL
-- 👯 I’m looking to collaborate on creating python projects
+- 👯 I’m looking to collaborate on creating javascript & python projects
 - 🤔 I’m looking for help with Golang and Django
-- 😄 Pronouns: he/him
